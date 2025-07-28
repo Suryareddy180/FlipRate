@@ -4,10 +4,9 @@
 
 ---
 
-##🌐 Demo
+#🌐 Demo
 
 ![Screenshot](static/css/screenshot.jpg) 
-(Optional: Add a screenshot showing the UI)
 
 ---
 
